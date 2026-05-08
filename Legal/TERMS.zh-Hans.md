@@ -75,3 +75,4 @@ Quick Paste History 的全部代码、UI 设计、图标、品牌名称及相关
 ## 10. 联系我们
 
 - **邮箱**：chensingyou@126.com
+
