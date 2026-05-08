@@ -108,3 +108,4 @@ Quick Paste History，不会收集儿童个人信息。
 
 > **总结：你的数据，只归你管。** Quick Paste History 不上传任何内容到服务器，不追踪用户行为，不嵌入第三方 SDK。所有剪贴板数据仅在设备本地和 iCloud 私有空间处理。
 
+
